@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\pigycaj\documents\visual studio 2015\projects\vizs_zadanie1\vizs_zadanie1\source.cpp(157): warning C4101: 'img': unreferenced local variable
+  VIZS_zadanie1.vcxproj -> C:\Users\PigyCaj\documents\visual studio 2015\Projects\VIZS_zadanie1\x64\Debug\VIZS_zadanie1.exe
+  VIZS_zadanie1.vcxproj -> C:\Users\PigyCaj\documents\visual studio 2015\Projects\VIZS_zadanie1\x64\Debug\VIZS_zadanie1.pdb (Full PDB)
